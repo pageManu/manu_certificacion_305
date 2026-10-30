@@ -1,0 +1,22 @@
+#Aritmeticos
+#2 RELACIONALES
+a=20
+b=10
+#Mayor que >
+resultado=a>b
+print(resultado)
+#Menor que >
+resultado=a<b
+print(resultado)
+#Diferente que !=
+resultado=a!=b
+print(resultado)
+#Igual que ==
+resultado=a==b
+print(resultado)
+#Mayor o igual que>=
+resultado=a>=b
+print(resultado)
+#Menor o igual que <=
+resultado=a<=b
+print(resultado)
